@@ -38,7 +38,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       rel="noreferrer"
     >
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
         alt="javascript"
         width="30"
       />
@@ -54,7 +54,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
     &nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
         alt="vuejs"
         width="30"
       />
@@ -62,23 +62,15 @@ Interested in UX/UI, digital media, innovative thinking and project management.
     &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"
         alt="nodejs"
-        width="30"
-      />
-    </a>
-    &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
         width="30"
       />
     </a>
     &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
         alt="mongodb"
         width="30"
       />
