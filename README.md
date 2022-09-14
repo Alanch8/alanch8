@@ -12,7 +12,8 @@ I became interested in the development of apps and UX/UI as I see that the natur
 I have the opportunity to become a developer at IronHack and I don't miss it.
 
 - 📚 I love to be constantly learning
-- 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or on Linkedin: &nbsp<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="aitorlancharro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/aitorlancharro?trk=profile-badge">Aitor Lancharro Hurtado</a></div>
+- 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or on Linkedin: &nbsp;
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="aitorlancharro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/aitorlancharro?trk=profile-badge">Aitor Lancharro Hurtado</a></div>
               
 - ⚙️ Fun fact:  I studied Mechanical Engineering because I wanted to be like Tony Stark :)
 
@@ -23,7 +24,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="30"
+        width="32"
       />
     </a>
     &nbsp;
@@ -31,7 +32,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
-        width="30"
+        width="32"
       />
     </a>
     &nbsp;
@@ -163,9 +164,13 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       width="24"
     />
   </a>
-</p>
-<br>
-
-<p align="center">
-  <img src="https://page-views.glitch.me/badge?page_id=alanch8.visitor-badge" alt="Visitors to Aitor's Github Profile">
+  &nbsp;
+  <a href="https://aitorlancharro.com/" target="blank"
+    ><img
+      align="center"
+      src="https://www.nicepng.com/maxp/u2q8o0u2e6u2t4w7.svg"
+      alt="alanch8"
+      width="24"
+    />
+  </a>
 </p>
