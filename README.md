@@ -104,7 +104,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
         alt="TailwindCSS"
-        width="32"
+        width="38"
       />
     </a>
     &nbsp;
