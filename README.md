@@ -38,7 +38,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       rel="noreferrer"
     >
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
         alt="javascript"
         width="30"
       />
@@ -46,7 +46,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
         alt="react"
         width="30"
       />
