@@ -24,7 +24,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="34"
+        width="36"
       />
     </a>
     &nbsp;
@@ -32,7 +32,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
-        width="34"
+        width="36"
       />
     </a>
     &nbsp;
@@ -168,7 +168,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
   <a href="https://aitorlancharro.com/" target="blank"
     ><img
       align="center"
-      src="https://www.nicepng.com/maxp/u2q8o0u2e6u2t4w7.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg"
       alt="alanch8"
       width="24"
     />
