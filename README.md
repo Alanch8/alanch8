@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋🏼, I'm Aitor</h1>
 <h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
 
-I live in a small mountain village since I was 5 years old, and since then I'm a creative kid who likes to draw and paint.&nbsp; 
-I was about to study arts to become a graphic designer but finally I decided to study mechanical engineering.
+A creative engineer based in Barcelona with a background in industrial engineering, fullstack development and design.
 
-I worked for 4 years in the industrial air conditioning sector (HVAC) and I realised that I needed a change.&nbsp; 
-At the same time I tried to create a Start Up which didn't see the light of day but it helped me to develop most of the soft skills I use nowadays.
+Proactive and free spirit, learning from my own new techonolgies everyday to develop personal projects.
 
-I became interested in the development of apps and UX/UI as I see that the natural evolution of the graphic design that interested me in its day is the design and development of these apps.
-
-I have the opportunity to become a developer at IronHack and I don't miss it.
+Interested in UX/UI, digital media, innovative thinking and project management.
 
 - 📚 I love to be constantly learning
 - 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or Linkedin <a href="https://es.linkedin.com/in/aitorlancharro">Aitor Lancharro</a>
               
               
-- ⚙️ Fun fact:  I studied Mechanical Engineering because I wanted to be like Tony Stark :)
+- ⚙️ Fun fact:  I studied mechanical engineering because I wanted to be like Tony Stark :)
 
 ## Languages and Tools
 <div>
