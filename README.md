@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋🏼, I'm Aitor</h1>
-<h3 align="center">A passionate FullStack developer from 📍Barcelona and serial coffee drinker ☕️</h3>
+<h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
 
-I live in a small mountain village since I was 5 years old, and since then I'm a creative kid who likes to draw and paint. I was about to study arts to become a graphic designer but finally I decided to study mechanical engineering.
+I live in a small mountain village since I was 5 years old, and since then I'm a creative kid who likes to draw and paint.&nbsp; 
+I was about to study arts to become a graphic designer but finally I decided to study mechanical engineering.
 
-I worked for 4 years in the industrial air conditioning sector (HVAC) and I realised that I needed a change. At the same time I tried to create a Start Up which didn't see the light of day but it helped me to develop most of the soft skills I use nowadays.
+I worked for 4 years in the industrial air conditioning sector (HVAC) and I realised that I needed a change.&nbsp; 
+At the same time I tried to create a Start Up which didn't see the light of day but it helped me to develop most of the soft skills I use nowadays.
 
 I became interested in the development of apps and UX/UI as I see that the natural evolution of the graphic design that interested me in its day is the design and development of these apps.
 
-I have the opportunity to train as a developer at IronHack and I don't miss it.
+I have the opportunity to become a developer at IronHack and I don't miss it.
 
 - 📚 I love to be constantly learning
-- 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or on Linkedin: &nbsp
+- 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or on Linkedin: &nbsp<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="aitorlancharro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/aitorlancharro?trk=profile-badge">Aitor Lancharro Hurtado</a></div>
+              
 - ⚙️ Fun fact:  I studied Mechanical Engineering because I wanted to be like Tony Stark :)
 
 ## Languages and Tools
@@ -20,7 +23,7 @@ I have the opportunity to train as a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="26"
+        width="30"
       />
     </a>
     &nbsp;
@@ -108,6 +111,14 @@ I have the opportunity to train as a developer at IronHack and I don't miss it.
       />
     </a>
     &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+        alt="visualStudioCode"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -121,9 +132,8 @@ I have the opportunity to train as a developer at IronHack and I don't miss it.
 ## GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact&hide=scss&theme=tokyonight"
-  />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=alanch8&show_icons=true&locale=en&hide=issues" alt="Aitor Lancharro Github Stats" />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact" alt="Aitor Lancharro Programming Language Stats" />
 </div>
 
 ## Contact Me
@@ -153,4 +163,9 @@ I have the opportunity to train as a developer at IronHack and I don't miss it.
       width="24"
     />
   </a>
+</p>
+<br>
+
+<p align="center">
+  <img src="https://page-views.glitch.me/badge?page_id=alanch8.visitor-badge" alt="Visitors to Aitor's Github Profile">
 </p>
