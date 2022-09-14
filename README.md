@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋🏼, I'm Aitor</h1>
 <h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
 
@@ -13,7 +14,9 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
 
 - 📚 I love to be constantly learning
 - 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or on Linkedin: &nbsp;
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="aitorlancharro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/aitorlancharro?trk=profile-badge">Aitor Lancharro Hurtado</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="aitorlancharro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/aitorlancharro?trk=profile-badge">Aitor Lancharro Hurtado</a></div>
+              
               
 - ⚙️ Fun fact:  I studied Mechanical Engineering because I wanted to be like Tony Stark :)
 
@@ -24,7 +27,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="32"
+        width="34"
       />
     </a>
     &nbsp;
@@ -32,7 +35,7 @@ I have the opportunity to become a developer at IronHack and I don't miss it.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
-        width="32"
+        width="34"
       />
     </a>
     &nbsp;
