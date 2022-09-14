@@ -72,7 +72,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
         alt="mongodb"
-        width="30"
+        width="35"
       />
     </a>
     &nbsp;
@@ -96,7 +96,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
         alt="TailwindCSS"
-        width="38"
+        width="40"
       />
     </a>
     &nbsp;
