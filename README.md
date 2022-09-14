@@ -11,7 +11,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
 - 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or Linkedin <a href="https://es.linkedin.com/in/aitorlancharro">Aitor Lancharro</a>
               
               
-- ⚙️ Fun fact:  I studied mechanical engineering because I wanted to be like Tony Stark :)
+- ⚙️ <u>Fun fact</u>:  I studied mechanical engineering because I wanted to be like Tony Stark :)
 
 ## Languages and Tools
 <div>
@@ -20,7 +20,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="36"
+        width="37"
       />
     </a>
     &nbsp;
@@ -28,7 +28,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
-        width="36"
+        width="37"
       />
     </a>
     &nbsp;
