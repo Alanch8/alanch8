@@ -118,12 +118,12 @@ Interested in UX/UI, digital media, innovative thinking and project management.
   </p>
 </div>
 
-<!-- ## GitHub Stats
+## GitHub Stats
 
 <div align="center">
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=alanch8&show_icons=true&locale=en&hide=issues" alt="Aitor Lancharro Github Stats" />
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact" alt="Aitor Lancharro Programming Language Stats" />
-</div> -->
+</div>
 
 ## Contact Me
 <p align="center">
