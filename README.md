@@ -44,6 +44,22 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       />
     </a>
     &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+        alt="typescript"
+        width="30"
+      />
+    </a>
+    &nbsp;
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+        alt="angular"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
