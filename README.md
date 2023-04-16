@@ -56,7 +56,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
         alt="angular"
-        width="30"
+        width="32"
       />
     </a>
     &nbsp;
