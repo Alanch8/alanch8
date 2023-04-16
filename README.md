@@ -54,9 +54,9 @@ Interested in UX/UI, digital media, innovative thinking and project management.
     &nbsp;
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+        src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
         alt="angular"
-        width="35"
+        width="30"
       />
     </a>
     &nbsp;
