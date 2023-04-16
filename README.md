@@ -56,7 +56,7 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       <img
         src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
         alt="angular"
-        width="35"
+        width="33"
       />
     </a>
     &nbsp;
